@@ -5,7 +5,7 @@ def find_hash(original_hash):
     word_file = open("words.txt","r")
     word_file = list(word_file)
 
-    anagram = "who outlay thieves"
+    anagram = "i move lads"
     words = anagram.count(' ')
     words += 1
 
